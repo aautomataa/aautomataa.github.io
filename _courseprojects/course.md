@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Course Projects"
 permalink: /courseprojects/
 author_profile: true
 redirect_from:
