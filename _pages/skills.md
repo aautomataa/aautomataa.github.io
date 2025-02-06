@@ -11,7 +11,7 @@ Python (3 yrs), MATLAB (2 yrs), C (2 yrs), LaTex (1 yr)
 
 ## Languages
 
-Chinese (Native), English (TOEFL: 93 - R: 24/L: 21/ S: 26/W:22)
+Chinese (Native), English (TOEFL: 93 - R: 24/L: 21/S: 26/W: 22)
 
 ## Extracurricular activity
 

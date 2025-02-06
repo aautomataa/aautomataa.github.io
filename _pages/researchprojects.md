@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 * Oct-Dec 2024: Implementation of Forward Collision Speed Warning System Based on YOLOv10 and DeepSORT
-  * Independent Project / Advisor: Associate Prof. Ge Song
+  * Independent Project / Advisor: Associate Prof. Ge Song, School of Computer and Electronic Information / Artificial Intelligence, NNU
   * Designed and implemented a forward collision warning system for autonomous driving using
 YOLOv10(state-of-the-art object detection) and DeepSORT(object tracking), achieving real-time
 detection and tracking of vehicles (e.g., cars, trucks, buses) and calculating collision risks based on
