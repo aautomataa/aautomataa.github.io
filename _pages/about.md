@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-<<div style="background-color: #f9f9f9; padding: 15px; border-radius: 10px; border: 2px solid #ccc; margin: 0 20px;">
-  <h3 style="text-align: center; color: #4CAF50; font-size: 1.5em;">
+<div style="background-color: #f9f9f9; padding: 15px; border-radius: 10px; border: 2px solid #ccc;">
+  <h3 style="text-align: center; color: #4CAF50; font-size: 1.2em; font-style: italic;">
     My AI Fantasy
   </h3>
-  <p style="font-weight: bold; font-size: 1em; color: #333;">
+  <p style="font-weight: bold; font-size: 1em; color: #333; font-style: italic;">
     Departing from the Babel of von Neumann architectures, I traversed the mist-laden forests of backpropagation. In the pantheon of convolutional kernels, I witnessed the ascent of feature pyramids. Now standing beneath the observational dome of transformers, I decipher cosmic lexicons hidden within high-dimensional manifolds.
   </p>
 </div>
