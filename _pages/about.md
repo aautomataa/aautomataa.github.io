@@ -8,13 +8,20 @@ redirect_from:
 ---
 
 
-<div style="background-color: #f9f9f9; padding: 15px; border-radius: 10px; border: 2px solid #ccc;">
-  <h3 style="text-align: center; color: #4CAF50; font-size: 1.2em; font-style: italic;">
-    My AI Fantasy
-  </h3>
-  <p style="font-weight: bold; font-size: 1em; color: #333; font-style: italic;">
-    Departing from the Babel of von Neumann architectures, I traversed the mist-laden forests of backpropagation. In the pantheon of convolutional kernels, I witnessed the ascent of feature pyramids. Now standing beneath the observational dome of transformers, I decipher cosmic lexicons hidden within high-dimensional manifolds.
-  </p>
+<div style="text-align: center; font-family: 'Cormorant Garamond', serif; font-size: 1.4em; line-height: 1.8; margin: 2em 0; color: #3d3d3d;">
+
+<span style="font-size: 2.5em; line-height: 0; color: #b87333;">“</span>  
+To live,  
+to err,  
+to fall,  
+to triumph,  
+to recreate life out of life.  
+<span style="font-size: 2.5em; line-height: 0; color: #b87333;">”</span>  
+
+<small style="display: block; margin-top: 1em; letter-spacing: 0.1em; color: #7a7a7a;">  
+― James Joyce  
+</small>  
+
 </div>
 
 Academic Journey
@@ -28,7 +35,7 @@ contributed to a Human Activity Recognition (HAR) project under the mentorship o
 manuscript. Currently, I am writing an independent research paper as the sole author, focusing on
 developing a novel deep learning algorithm. These experiences have strengthened my research, coding, and technical writing skills, and encouraged me to explore more interesting things! 
 
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -44,4 +51,4 @@ For site content, there is one markdown file for each type of content, which are
 **Markdown generator**
 
 The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository. -->
