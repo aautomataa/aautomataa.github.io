@@ -15,13 +15,13 @@ main:
     url: /courseprojects/
 
   # - title: "Education"
-  #   url: /education/
-
-  # - title: "Skills"
-  #   url: /skills/    
+  #   url: /education/  
 
   - title: "Self-learning"
     url: /self-learning/ 
+
+  - title: "Skills"
+    url: /skills/  
 
   # - title: "Talks"
   #   url: /talks/    
