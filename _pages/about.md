@@ -24,20 +24,22 @@ to recreate life out of life.
 
 </div> -->
 
-<blockquote style="border-left: 3px solid #ff6b6b; padding: 1.5em 2em; margin: 2em 0; background: linear-gradient(90deg, #fff5f5 0%, #ffffff 100%); font-family: 'Inter', sans-serif; position: relative;">
+<blockquote style="border-left: 3px solid #ff6b6b; padding: 1.5em 2em; margin: 2em 0; 
+background: linear-gradient(90deg, #fff5f5 0%, #ffffff 100%); 
+font-family: 'Inter', sans-serif; position: relative;">
 
 <p style="font-size: 1.2em; line-height: 1.6; color: #2d3436; margin: 0; 
    background: linear-gradient(90deg, #2d3436 50%, transparent 100%);
    -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
    animation: fadeIn 1.5s ease-out;">
-To live, to err, <br> 
-to fall, to triumph, <br> 
-to recreate life out of life.
+To live, to err, to fall,<br> 
+to triumph, to recreate life out of life.
 </p>
 
-<footer style="margin-top: 1em; font-style: italic; color: #636e72;">
-— James Joyce
+<footer style="margin-top: 1em; font-style: normal; color: #636e72;
+             font-size: 0.9em; letter-spacing: 0.05em;">
+— James Joyce, <em style="font-style: italic; opacity: 0.8;">A Portrait of the Artist as a Young Man</em>
 </footer>
 
 <style>
