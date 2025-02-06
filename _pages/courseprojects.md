@@ -5,7 +5,7 @@ permalink: /courseprojects/
 author_profile: true
 ---
 
-* Sep- Nov 2024: Image Enhancement and Compression Coding Techniques Based on MATLAB
+* Sep-Nov 2024: Image Enhancement and Compression Coding Techniques Based on MATLAB
   * Utilized MATLAB to implement and optimize traditional digital image processing techniques, focusing
 on image enhancement and compression to improve processing efficiency and effectiveness.
   * Developed and applied spatial domain filtering techniques, including neighborhood averaging and
