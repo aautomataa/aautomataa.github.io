@@ -31,8 +31,9 @@ to recreate life out of life.
    -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
    animation: fadeIn 1.5s ease-out;">
-To live, to err, to fall,<br> 
-to triumph, to recreate life out of life.
+To live, to err, <br> 
+to fall, to triumph, <br> 
+to recreate life out of life.
 </p>
 
 <footer style="margin-top: 1em; font-style: italic; color: #636e72;">
