@@ -55,7 +55,7 @@ Academic Journey
 ======
 My academic journey has been driven by a curiosity for cutting-edge technologies and a commitment to
 applying theoretical knowledge to practical problems. I independently completed Stanford’s renowned
-cs231n course, successfully implementing all assignments on GitHub. This experience deepened my
+CS231n course, successfully implementing all assignments on GitHub. This experience deepened my
 understanding of deep learning architectures, neural networks, and computer vision, while also honing
 my ability to tackle complex problems with a structured and analytical approach. Additionally, I
 contributed to a Human Activity Recognition (HAR) project under the mentorship of a faculty member, where I applied machine learning techniques to real-world datasets and co-authored a research
