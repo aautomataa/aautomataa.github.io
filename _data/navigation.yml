@@ -8,8 +8,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Research Projects"
+    url: /researchprojects/
+
+  - title: "Course Projects"
+    url: /courseprojects/
 
   # - title: "Education"
   #   url: /education/
