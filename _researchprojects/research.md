@@ -3,11 +3,7 @@ layout: archive
 title: "Research Projects"
 permalink: /researchprojects/
 author_profile: true
-redirect_from:
-  - /researchprojects
 ---
-
-{% include base_path %}
 
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
