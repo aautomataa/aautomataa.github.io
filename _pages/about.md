@@ -8,7 +8,12 @@ redirect_from:
 ---
 
 
-Departing from the Babel of von Neumann architectures, I traversed the mist-laden forests of backpropagation. In the pantheon of convolutional kernels, I witnessed the ascent of feature pyramids. Now standing beneath the observational dome of transformers, I decipher cosmic lexicons hidden within high-dimensional manifolds.
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; border: 2px solid #ccc;">
+  <h3 style="text-align: center; color: #4CAF50;">My Declaration</h3>
+  <p style="font-weight: bold; font-size: 1.2em; color: #333;">
+    Departing from the Babel of von Neumann architectures, I traversed the mist-laden forests of backpropagation. In the pantheon of convolutional kernels, I witnessed the ascent of feature pyramids. Now standing beneath the observational dome of transformers, I decipher cosmic lexicons hidden within high-dimensional manifolds.
+  </p>
+</div>
 
 Academic Journey
 ======
