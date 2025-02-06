@@ -14,8 +14,8 @@ main:
   # - title: "Education"
   #   url: /education/
 
-  - title: "Skills"
-    url: /skills/    
+  # - title: "Skills"
+  #   url: /skills/    
 
   - title: "Self-learning"
     url: /self-learning/ 
