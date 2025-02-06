@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 * Oct-Dec 2024: Implementation of Forward Collision Speed Warning System Based on YOLOv10 and DeepSORT
-  * Independent Project | Advisor: Associate Prof. Ge Song
+  * Independent Project / Advisor: Associate Prof. Ge Song
   * Designed and implemented a forward collision warning system for autonomous driving using
 YOLOv10(state-of-the-art object detection) and DeepSORT(object tracking), achieving real-time
 detection and tracking of vehicles (e.g., cars, trucks, buses) and calculating collision risks based on
@@ -23,7 +23,7 @@ maintaining high recall and mAP.
 mAP50-95 metrics.
 
 * Jun-Jul 2023: Fall Detection System and Alarm Device for The Elderly Based on STM32Cube.Al
-  * Leader | Advisor: Associate Prof. Fei Xie, School of Electrical and Automation Engineering, NNU
+  * Leader / Advisor: Associate Prof. Fei Xie, School of Electrical and Automation Engineering, NNU
   * Aimed to develop a video analysis system based on the MCU/MPU development board developed by
 STMicroelectronics and advanced algorithms of machine learning and computer vision and deploy it on
 the STM32 embedded development board.
@@ -33,7 +33,7 @@ YOLOv7-POSE model (accuracy rate 88.27%) to scan each frame of the video.
 library and serial communication between the Python program and STM32.
 
 * Sept 2023: Optimal Design of Heliostat Field Based on PSO Algorithm
-  * Core Member | China Undergraduate Mathematical Contest in Modeling
+  * Core Member / China Undergraduate Mathematical Contest in Modeling
   * Utilized Python to model heliostat field: developed two occlusion models (an occlusion recognition
 model based on octree and an occlusion area model based on projected area under parallel light
 irradiation).
