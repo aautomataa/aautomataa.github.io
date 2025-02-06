@@ -3,6 +3,8 @@ layout: archive
 title: "Course Projects"
 permalink: /courseprojects/
 author_profile: true
+redirect_from: 
+  - /courseprojects/
 ---
 
 {% include base_path %}
