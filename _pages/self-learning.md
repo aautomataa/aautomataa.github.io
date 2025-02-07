@@ -14,4 +14,4 @@ YOLOv10(state-of-the-art object detection) and DeepSORT(object tracking), achiev
 detection and tracking of vehicles (e.g., cars, trucks, buses) and calculating collision risks based on
 distance, relative speed, and human reaction time. -->
 
-To Be Added
+To Be Finished (My GitHub Self-learning Homepage: [My GitHub Self-learning Homepage](https://github.com/aautomataa/AI-self-learning))
